@@ -5,7 +5,6 @@ This repository implements a Convolutional Neural Network (CNN) from scratch wit
 ## **Project Structure**
 
 - **`cnn.py`**: Core implementation of the CNN architecture, including convolution, pooling, activation functions, and fully connected layers.
-- **`train.py`**: Script for training the CNN on the MNIST dataset.
 - **`utils.py`**: Contains helper functions for data preprocessing and visualization.
 - **`README.md`**: Documentation for understanding and reproducing the project.
 
