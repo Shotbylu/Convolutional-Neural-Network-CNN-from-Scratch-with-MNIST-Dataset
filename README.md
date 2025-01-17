@@ -1,6 +1,6 @@
 # CNN from Scratch with MNIST Dataset
 
-This repository implements a Convolutional Neural Network (CNN) from scratch without using frameworks like TensorFlow or PyTorch. The project demonstrates the foundational principles of CNN architecture, forward and backward propagation, and training using the MNIST dataset.
+This repository implements a Convolutional Neural Network (CNN) from scratch without using frameworks like TensorFlow or PyTorch. The project demonstrates the foundational principles of CNN architecture, forward and backward propagation, and training using the **MNIST dataset.**
 
 ![image](https://github.com/user-attachments/assets/2e6e57c4-d966-4929-ae25-2342541f0a25)
 
